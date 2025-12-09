@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "im",
+  "base_artist": "dodo",
+  "createdAt": "2025-12-09T02:37:26.163682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Even Though I'm Leaving",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/01_Even_Though_I'm_Leaving_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/02_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Still Standing",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/03_I'm_Still_Standing_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Look At The Mess I'm In",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/04_Look_At_The_Mess_I'm_In_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Sleepin' In",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/05_I'm_Sleepin'_In_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Sleepin' In",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_I'm_Sleepin'_In_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm In Your Mind",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/07_I'm_In_Your_Mind_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm in Your Mind",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/08_I'm_in_Your_Mind_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm In Your Mind Fuzz",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/09_I'm_In_Your_Mind_Fuzz_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm in Your Mind Fuzz",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/10_I'm_in_Your_Mind_Fuzz_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(I'm A) Stand by My Woman Man",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/11_(I'm_A)_Stand_by_My_Woman_Man_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Settin' Fancy Free - Single Version",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": false,
+      "path": "select/12_I'm_Settin'_Fancy_Free_-_Single_Version_The_Oak_Ridge_Boys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(I'm Settin') Fancy Free (Single Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/13_(I'm_Settin')_Fancy_Free_(Single_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(I'm So) Afraid of Losing You Again",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/14_(I'm_So)_Afraid_of_Losing_You_Again_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/15_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/16_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "im",
+      "artist": "dodo",
+      "has_synced": false,
+      "path": "select/pl_01_im_dodo.txt"
+    }
+  ]
+}
